@@ -1,8 +1,8 @@
 ---
-title: "Accueil"
+title: "# Les Randonnées"
 order: 2
 in_menu: true
 ---
-# L'Échappée Belle
+# Randonnées
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Les randos 
