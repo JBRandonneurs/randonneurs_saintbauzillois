@@ -3,7 +3,6 @@ title: "Contact"
 order: 4
 in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Jacques Bresson
+Téléphone 06 51 23 59 29
+Mail jacques.temporaire@free.fr 
