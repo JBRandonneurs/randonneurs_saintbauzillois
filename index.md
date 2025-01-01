@@ -1,5 +1,5 @@
 ---
-title: "Les Randonnées"
+title: "Randonnées prévues"
 order: 2
 in_menu: true
 ---
