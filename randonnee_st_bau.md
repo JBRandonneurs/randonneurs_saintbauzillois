@@ -6,7 +6,7 @@ in_menu: true
 # Les Randonnées 
 
 ## Sorties prévues
-Dimanche 5 janvier 2025. Sortie départ Lasalle
+ -- Dimanche 5 janvier 2025. Sortie départ Lasalle
 
 ## Comptes rendus
 ### Dernières sorties
