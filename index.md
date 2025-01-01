@@ -5,4 +5,4 @@ in_menu: true
 ---
 # Randonnées
 
-Randonnée du 22 décembre 2024 ** Arboras Pic Baudille ** temps magnifique avec beaucoup de vent du nord au sommet. 
+##Randonnée du 22 décembre 2024 ** Arboras Pic Baudille ** temps magnifique avec beaucoup de vent du nord au sommet. 
