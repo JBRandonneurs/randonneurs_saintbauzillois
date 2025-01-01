@@ -3,8 +3,6 @@ title: "Randonnée_St_Bau"
 order: 1
 in_menu: true
 ---
-# Les Randonnées 
-
 ## Sorties prévues
  -- Dimanche 5 janvier 2025. Sortie départ Lasalle
 
